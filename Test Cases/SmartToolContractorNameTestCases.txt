@@ -1,0 +1,7 @@
+Test cases for testing changing contractor name (AssignedToFirm) in the SMART Tool:
+
+	1. AntPlacement Print page
+	2. Write loads
+	3. Write Risa
+	4. Create report
+	5. Cost estimate report output
